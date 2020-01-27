@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee04dd2f.chunk.css",
+    "main.js": "/static/js/main.ab4a68ff.chunk.js",
+    "main.js.map": "/static/js/main.ab4a68ff.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.39007d83.js",
+    "runtime-main.js.map": "/static/js/runtime-main.39007d83.js.map",
+    "static/css/2.d6181cb7.chunk.css": "/static/css/2.d6181cb7.chunk.css",
+    "static/js/2.952ce79d.chunk.js": "/static/js/2.952ce79d.chunk.js",
+    "static/js/2.952ce79d.chunk.js.map": "/static/js/2.952ce79d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.f2dcea10636ce32509db0e9e95595045.js": "/precache-manifest.f2dcea10636ce32509db0e9e95595045.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.d6181cb7.chunk.css.map": "/static/css/2.d6181cb7.chunk.css.map",
+    "static/css/main.ee04dd2f.chunk.css.map": "/static/css/main.ee04dd2f.chunk.css.map",
+    "static/media/3-4-3.png": "/static/media/3-4-3.d67a34fe.png",
+    "static/media/3-5-2.png": "/static/media/3-5-2.7fedcb41.png",
+    "static/media/4-3-3.png": "/static/media/4-3-3.3c0ec324.png",
+    "static/media/4-4-2.png": "/static/media/4-4-2.a1367e76.png",
+    "static/media/4-5-1.png": "/static/media/4-5-1.05bebd2a.png",
+    "static/media/5-2-3.png": "/static/media/5-2-3.7fe1a205.png",
+    "static/media/5-3-2.png": "/static/media/5-3-2.d6b752b8.png",
+    "static/media/5-4-1.png": "/static/media/5-4-1.dcc4d763.png",
+    "static/media/Daniel Ceballos Fernández.jpg": "/static/media/Daniel Ceballos Fernández.d02d119e.jpg",
+    "static/media/David Luiz Moreira Marinho.jpg": "/static/media/David Luiz Moreira Marinho.14c8f4f3.jpg",
+    "static/media/GK.svg": "/static/media/GK.c20900c8.svg",
+    "static/media/bench.svg": "/static/media/bench.583f566b.svg",
+    "static/media/football-player.svg": "/static/media/football-player.314d9024.svg",
+    "static/media/p98745.png": "/static/media/p98745.a9944341.png",
+    "static/media/pickSquad.scss": "/static/media/pitch.318c0a20.318c0a20.svg",
+    "static/media/player-comp-3-1x.7eb15f60.png": "/static/media/player-comp-3-1x.7eb15f60.7eb15f60.png",
+    "static/media/src__assets_player-comp-3-1x.7eb15f60.png": "/static/media/src__assets_player-comp-3-1x.7eb15f60.7eb15f60.png",
+    "static/media/transfer1.svg": "/static/media/transfer1.5e8128ce.svg",
+    "static/media/transfer2.svg": "/static/media/transfer2.9b64087e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39007d83.js",
+    "static/css/2.d6181cb7.chunk.css",
+    "static/js/2.952ce79d.chunk.js",
+    "static/css/main.ee04dd2f.chunk.css",
+    "static/js/main.ab4a68ff.chunk.js"
+  ]
+}
